@@ -1,7 +1,7 @@
-**DON'T CONTRIBUTE TO THIS REPO. THE NEW ONE IS [HERE](https://github.com/hmrc/mdtp-dog-team-apprentice/tree/master/resources)**
-
 Apprentice Learning Resources & Pathway
 =======================================
+
+**DON'T CONTRIBUTE TO THIS REPO. THE NEW ONE IS [HERE](https://github.com/hmrc/mdtp-dog-team-apprentice/tree/master/)**
 
 This repository collects resources (both from within and beyond HMRC) for new apprentices joining the tax platform in devops roles.
 

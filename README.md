@@ -1,3 +1,5 @@
+**DON'T CONTRIBUTE TO THIS REPO. THE NEW ONE IS [HERE](https://github.com/hmrc/mdtp-dog-team-apprentice/tree/master/resources)**
+
 Apprentice Learning Resources & Pathway
 =======================================
 
